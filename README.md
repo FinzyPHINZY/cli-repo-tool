@@ -4,7 +4,7 @@ RepoGenie is a command-line tool designed to streamline the process of creating 
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](![alt text](image.png))
+(image.png)
 
 **Tech Used**
 
