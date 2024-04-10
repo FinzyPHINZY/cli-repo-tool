@@ -2,7 +2,7 @@
 
 RepoGenie is a command-line tool designed to streamline the process of creating GitHub repositories. With RepoGenie, you can quickly generate a new repository, complete with a `.gitignore` file and the essential `.git` folder, all in just a few simple steps.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://github.com/FinzyPHINZY/RepoGenie
 
 (image.png)
 
@@ -62,7 +62,7 @@ Contributions to RepoGenie are welcome! If you have any suggestions for improvem
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
