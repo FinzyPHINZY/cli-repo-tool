@@ -19,9 +19,12 @@ RepoGenie is built using **Node.js**.
 
 ## Optimizations
 
-_(optional)_
+This project is not completed. I'm still trying to work around authentication issues based on the Octokit Auth-Basic now deprecated. It works if you create a personal access token and include it in the `.env` file. But my plan is to have users input the token on the command line. Just like they would with the Auth-Basic username and password. So all the activity is on the command line. No need to mess with the code.
+I also need to make it available for global integration so users can use:
 
-You don't have to include this section but interviewers _love_ that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+```javascript
+repogenie <repo-name> <longer repo description>
+```
 
 ## Installation
 
@@ -52,10 +55,6 @@ To install RepoGenie, follow these steps:
    ```
    node index.js
    ```
-
-## Usage
-
-Once installed, using RepoGenie is straightforward. Simply run the command `python repogenie.py` in your terminal, and follow the prompts to provide the required information, including your GitHub personal access token, repository name, description, and select a `.gitignore` template. RepoGenie will then handle the rest, creating your repository with the specified settings.
 
 ## Contributions
 
