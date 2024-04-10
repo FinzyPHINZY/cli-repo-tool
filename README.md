@@ -4,7 +4,7 @@ RepoGenie is a command-line tool designed to streamline the process of creating 
 
 **Link to project:** https://github.com/FinzyPHINZY/RepoGenie
 
-(image.png)
+![RepoGenie](image.png)
 
 **Tech Used**
 
