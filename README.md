@@ -1,14 +1,14 @@
-# RepoGenie
+# CLI-REPO-TOOL
 
-RepoGenie is a command-line tool designed to streamline the process of creating GitHub repositories. With RepoGenie, you can quickly generate a new repository, complete with a `.gitignore` file and the essential `.git` folder, all in just a few simple steps.
+CLI-REPO-TOOL is a command-line tool designed to streamline the process of creating GitHub repositories. With RepoGenie, you can quickly generate a new repository, complete with a `.gitignore` file and the essential `.git` folder, all in just a few simple steps.
 
-**Link to project:** https://github.com/FinzyPHINZY/RepoGenie
+**Link to project:** https://github.com/FinzyPHINZY/cli-repo-tool
 
-![RepoGenie](image.png)
+![CLI-REPO-TOOL](image.png)
 
 **Tech Used**
 
-RepoGenie is built using **Node.js**.
+CLI-REPO-TOOL is built using **Node.js**.
 
 ## Features
 
@@ -23,23 +23,23 @@ This project is not completed. I'm still trying to work around authentication is
 I also need to make it available for global integration so users can use:
 
 ```javascript
-repogenie <repo-name> <longer repo description>
+CLI-REPO-TOOL <repo-name> <longer repo description>
 ```
 
 ## Installation
 
-To install RepoGenie, follow these steps:
+To install CLI-REPO-TOOL, follow these steps:
 
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/repo-genie.git
+   git clone https://github.com/your-username/cli-repo-tool.git
    ```
 
 2. Navigate to the cloned directory:
 
    ```
-   cd repo-genie
+   cd cli-repo-tool
    ```
 
 3. Install the necessary dependencies:
@@ -58,7 +58,7 @@ To install RepoGenie, follow these steps:
 
 ## Contributions
 
-Contributions to RepoGenie are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request on [GitHub](https://github.com/your-username/repo-genie).
+Contributions to RepoGenie are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or submit a pull request on [GitHub](https://github.com/your-username/cli-repo-tool).
 
 ## License
 
